@@ -1,8 +1,8 @@
 # docker-eap
 
 # JBoss EAP 6-7 build from source via and OpenJDK
-# JBoss source from Git Repo maintained by Alexis Hassler
-# https://github.com/hasalex/eap-build
+JBoss source from Git Repo maintained by Alexis Hassler
+https://github.com/hasalex/eap-build
 
 
 To run expample:
