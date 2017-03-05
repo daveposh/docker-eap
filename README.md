@@ -12,7 +12,7 @@ https://github.com/hasalex/eap-build
     -e type="domain" \
     daveposh/jboss-eap
   
-** First run will take some time due to the compiling of JBoss*  
+_First run will take some time due to the compiling of JBoss_
   
 **Environment Variables:**
 
