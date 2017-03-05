@@ -5,8 +5,8 @@ https://github.com/hasalex/eap-build
 
 ### Run example:
     docker run --name=jboss \
-    -p 8080:8080 -p9990:9990 \
-    -e admin_user="YOUR_USER_NAME" \ 
+    -p 8080:8080 -p 9990:9990 \
+    -e admin_user="YOUR_USER_NAME" \
     -e admin_pw="YOUR_PASS" \
     -e jboss_ver_num="6.4.13" \
     -e type="domain" \
