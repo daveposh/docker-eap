@@ -26,4 +26,4 @@ https://github.com/hasalex/eap-build
 
   8080 8230 # default domain offset for http 150
 
-  8443 8593 # default domain offset for http 150
+  8443 8593 # default domain offset for https 150
