@@ -12,6 +12,8 @@ https://github.com/hasalex/eap-build
     -e type="domain" \
     daveposh/jboss-eap
   
+** First run will take some time due to the compiling of JBoss*  
+  
 **Environment Variables:**
 
    admin_user <jboss admin console user>
