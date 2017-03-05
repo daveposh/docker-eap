@@ -12,7 +12,7 @@ https://github.com/hasalex/eap-build
     -e type="<domain>" \
     daveposh/jboss-eap
   
-Environment Variables:
+**Environment Variables:**
 
    admin_user <jboss admin console user>
   
@@ -21,9 +21,9 @@ Environment Variables:
   type (optional | domain )
  
   jboss_ver_num  (optional default 7.0.0 | 6.2.X - 7.0.0)
+  
+**Ports:**
 
-Ports
+  8080 8230 # default domain offset for http 150
 
-8080 8230 # default domain offset for http 150
-
-8443 8593 # default domain offset for http 150
+  8443 8593 # default domain offset for http 150
