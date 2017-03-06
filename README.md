@@ -3,6 +3,9 @@
 JBoss source build script from Git Repo maintained by Alexis Hassler
 https://github.com/hasalex/eap-build
 
+## build Image
+    docker build -t localhost/jboss-eap .
+
 ### Run example:
     docker run --name=jboss \
     -p 8080:8080 -p 9990:9990 \
@@ -10,7 +13,7 @@ https://github.com/hasalex/eap-build
     -e admin_pass="YOUR_PASS" \
     -e jboss_ver_num="6.4.13" \
     -e type="domain" \
-    daveposh/jboss-eap
+    localhost/jboss-eap
   
 _First run will take some time due to the compiling of JBoss_
   
