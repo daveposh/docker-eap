@@ -4,6 +4,8 @@ JBoss source build script from Git Repo maintained by Alexis Hassler
 https://github.com/hasalex/eap-build
 
 ## Build Image
+    git clone 
+    cd ./docker-eap
     docker build -t localhost/jboss-eap .
 
 ### Run example:
