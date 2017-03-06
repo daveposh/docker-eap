@@ -3,7 +3,7 @@
 JBoss source build script from Git Repo maintained by Alexis Hassler
 https://github.com/hasalex/eap-build
 
-## build Image
+## Build Image
     docker build -t localhost/jboss-eap .
 
 ### Run example:
